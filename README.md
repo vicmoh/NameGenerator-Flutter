@@ -1,4 +1,4 @@
-# flutter_dart_syntax
+# NameGenerator-Flutter
 
 A new Flutter project.
 
